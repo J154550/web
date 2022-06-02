@@ -30,6 +30,7 @@ $tdata=array_merge($tdata,array($row2[0]));
 };
 
 print($ydata[0]);
+echo "----";
 print($tdata[0]);
 
 
